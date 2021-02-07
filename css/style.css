@@ -1,0 +1,26 @@
+.container {
+    margin: auto;
+    width: 75%;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+.hide {
+    width: 100%;
+}
+
+button.hide {
+    background-color: lightgray;
+    border-radius: 25px;
+}
+
+td > span {
+    width: 75px;
+    float: left;
+}
+
+td>button {
+    float: right;
+}
